@@ -108,6 +108,10 @@ print("Results saved to 'customer_segments.csv'")
 ```
 ## Output:
 
+<img width="702" height="168" alt="image" src="https://github.com/user-attachments/assets/4ba8eff6-d75f-41ba-a0ef-9d10153ad459" />
+<img width="1066" height="666" alt="image" src="https://github.com/user-attachments/assets/762b907b-f528-4e6d-a7eb-d4e65c69acb2" />
+<img width="499" height="497" alt="image" src="https://github.com/user-attachments/assets/50c75437-bfa1-4caf-a100-605abb6402ad" />
+<img width="504" height="351" alt="image" src="https://github.com/user-attachments/assets/affe8e7f-fb89-4193-8d8e-ed23cb70959a" />
 
 
 
